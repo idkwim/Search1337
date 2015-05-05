@@ -70,10 +70,10 @@
       |_| \_,_|\__\___/_| |_\__,_|_|
                                     
                          
-    	python 1337day.py --e [SEARCH TAG]
+    	search1337 --e [SEARCH TAG]
     				
     Also you can append CVE number.
-    	python 1337day.py --e [SEARCH TAG] --cve [CVE]
+    	search1337 --e [SEARCH TAG] --cve [CVE]
     
     You must read it, if you dont have any idea about CVE.	
     	http://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures
